@@ -22,3 +22,4 @@ changes in approval rates among sponsors.
 iii. Visualize the segmentation of products based on MarketingStatus. 
 iv. Show the total number of applications for each MarketingStatus. Enable users to filter by 
 years and MarketingStatus for detailed analysis
+link for power bi project:-https://drive.google.com/file/d/11EUe0eLGUnFw9xxSFooTvrToQy7BHcsX/view?usp=drive_link
